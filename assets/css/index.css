@@ -44,18 +44,18 @@ body {
       margin-bottom: 1rem;
       width: 8rem;
       height: 8rem;
-      overflow: hidden;
+/*       overflow: hidden; */
       position: relative; }
-      .container .side .me .portrait .loading {
+/*       .container .side .me .portrait .loading {
         
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
         width: 8rem;
         height: 4rem;
-        margin: 0 auto; }
-      .container .side .me .portrait .loading span {
-        display: inline-block;
+        margin: 0 auto; } */
+      .container .side .me .portrait .one {
+/*         display: inline-block; */
         width: 8px;
         height: 100%;
         border-radius: 4px;
