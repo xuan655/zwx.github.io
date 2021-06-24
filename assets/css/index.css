@@ -47,6 +47,7 @@ body {
       overflow: hidden;
       position: relative; }
       .container .side .me .portrait .loading {
+        
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
